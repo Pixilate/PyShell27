@@ -137,8 +137,10 @@ int main()
 
     u32 kDown, kHeld, kUp;
     touchPosition tp;
-
-    puts("hi");
+    
+    puts("PyShell27 (interpreter)");
+    puts("Copyright (c) 2016 MarcusD");
+    puts("Copyright (c) 2001-2015 Python Software Foundation");
 
     osSetSpeedupEnable(1);
     
